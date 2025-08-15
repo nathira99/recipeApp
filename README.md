@@ -1,9 +1,9 @@
-#Recipe App
+# Recipe App
 
 A simple recipe browsing app built with React and TailwindCSS, using the TheMealDB API.
 Users can search recipes, filter by category, view details, and save favorites.
 
-##Features
+## Features
 
 - Recipe Listings – Browse recipes with images and categories
 
@@ -19,7 +19,7 @@ Users can search recipes, filter by category, view details, and save favorites.
 
 - Responsive Design – Works on mobile, tablet, and desktop
 
-##Tech Stack
+## Tech Stack
 
 * React JS – UI building
 
