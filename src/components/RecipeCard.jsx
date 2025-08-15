@@ -23,7 +23,7 @@ function RecipeCard({ recipe }) {
   };
 
   return (
-    <div className="w-screen bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
+    <div className=" bg-white shadow-lg rounded-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
       <img
         src={recipe.strMealThumb}
         alt={recipe.strMeal}
